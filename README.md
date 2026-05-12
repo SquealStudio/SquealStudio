@@ -3,8 +3,7 @@
 Developing **Stardanie** (Terraria content mod) and messing around with C# and Linux.
 
 ### Projects
-* **Stardanie:** Large-scale expansion for Terraria. [Discord](https://discord.gg/emGrWw6BG) |
-* Piss And Peace
+* **Stardanie:** Large-scale expansion for Terraria. [Discord](https://discord.gg/emGrWw6BG)
 
 🐧 | We use Arch Linux btw.
 
