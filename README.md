@@ -8,4 +8,6 @@ Developing **Stardanie** (Terraria content mod) and messing around with C# and L
 
 🐧 | We use Arch Linux btw.
 
+Our website: https://squealstudio.ru/
+
 «We're doing projects that even we feel ashamed of. And we're not ashamed.»
